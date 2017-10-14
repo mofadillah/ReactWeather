@@ -3,7 +3,7 @@ var React = require('react');
 var Examples = () => {
     return (
         <h3>
-            Examples Component
+            Examples Component !
         </h3>
     )
 }
