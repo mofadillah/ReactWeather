@@ -5,8 +5,8 @@ var Examples = () => {
         <div>
             <h3>
                 Examples Component !
-                <p>Welcome to Example Page !</p>
             </h3>
+            <p>Welcome to Example Page !</p>
         </div>
     )
 }
